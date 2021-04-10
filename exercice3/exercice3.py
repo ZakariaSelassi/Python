@@ -12,6 +12,7 @@ def addArray(list):
     arr = []
     for x in list:  
         if x < num:
+            # Append ajoute element dans un tableau
             arr.append(x)
     return print(arr)
 

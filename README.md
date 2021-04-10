@@ -7,7 +7,7 @@
 - Apprendre les bases du python.
 - Boucles,foncion,tableau,class,object,...
 
-## Exercice 1 : 
+## Exercice : 
 
 1. Créez un programme qui demande à l'utilisateur d'entrer son nom et son âge. Imprimez un message qui leur est adressé qui leur indique l'année où ils auront 100 ans.
 Suppléments:
@@ -26,3 +26,5 @@ Extras:
 Instead of printing the elements one by one, make a new list that has all the elements less than 5 from this list in it and print out this new list.
 Write this in one line of Python.
 Ask the user for a number and return a list that contains only elements from the original list a that are smaller than that number given by the user.
+
+4. Create a program that asks the user for a number and then prints out a list of all the divisors of that number.
